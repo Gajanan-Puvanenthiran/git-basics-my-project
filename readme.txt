@@ -1,5 +1,5 @@
 Welcome to project
 
-Author : Gajanan
+Author : Gajanan puvanenthiran
 
 Twitter: @Gajanan
