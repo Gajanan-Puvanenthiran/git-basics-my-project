@@ -1,5 +1,6 @@
 Welcome to project
 
-Author : Gajanan puvanenthiran
+
+Author : Gajanan Antony puvanenthiran
 
 Twitter: @Gajanan
