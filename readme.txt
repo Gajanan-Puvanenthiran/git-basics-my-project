@@ -1,4 +1,4 @@
-Welcome to project
+Welcome to "Git beginners" project
 
 
 Author : Gajanan Antony puvanenthiran
